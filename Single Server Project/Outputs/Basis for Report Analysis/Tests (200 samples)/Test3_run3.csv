@@ -1,0 +1,17 @@
+Measures, Values
+d_hat, 45.43
+q_hat, 4.5
+u_hat, 1.0
+      ,     
+Total area under Q(t), 2907.3
+Total area under B(t), 643.2
+Total simulation time (Tn), 646.2
+      ,     
+Total server idles, 3.0
+Total served customers, 64
+Total discarded customers, 136
+      ,     
+Mean server idle, 0.05
+Probability of Idle time of the server, 0.0
+Probability of a Customer has to wait, 0.98
+Ave. time spent in system of Customers, 55.48
