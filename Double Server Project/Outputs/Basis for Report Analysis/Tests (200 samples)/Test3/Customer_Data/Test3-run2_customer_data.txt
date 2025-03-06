@@ -1,0 +1,983 @@
+Double Server Queuing System SIMULATION
+
+Customer 1:  
+ Arrival Time:---------------3.2 
+ Waiting Time:---------------0 
+ Service Start Time:---------3.2
+ Service Time:---------------11.4
+ Departure Time:-------------14.6
+ Time Spent in the System:---11.4 
+
+Customer 2:  
+ Arrival Time:---------------7.4 
+ Waiting Time:---------------0 
+ Service Start Time:---------7.4
+ Service Time:---------------9.3
+ Departure Time:-------------16.7
+ Time Spent in the System:---9.3 
+
+Customer 3:  
+ Arrival Time:---------------9.9 
+ Waiting Time:---------------4.7 
+ Service Start Time:---------14.6
+ Service Time:---------------9.1
+ Departure Time:-------------23.7
+ Time Spent in the System:---13.8 
+
+Customer 4:  
+ Arrival Time:---------------11.8 
+ Waiting Time:---------------4.9 
+ Service Start Time:---------16.7
+ Service Time:---------------8.4
+ Departure Time:-------------25.1
+ Time Spent in the System:---13.3 
+
+Customer 5:  
+ Arrival Time:---------------13.8 
+ Waiting Time:---------------9.9 
+ Service Start Time:---------23.7
+ Service Time:---------------12.6
+ Departure Time:-------------36.3
+ Time Spent in the System:---22.5 
+
+Customer 6:  
+ Arrival Time:---------------17.5 
+ Waiting Time:---------------7.6 
+ Service Start Time:---------25.1
+ Service Time:---------------9.0
+ Departure Time:-------------34.1
+ Time Spent in the System:---16.6 
+
+Customer 7:  
+ Arrival Time:---------------20.0 
+ Waiting Time:---------------14.1 
+ Service Start Time:---------34.1
+ Service Time:---------------10.6
+ Departure Time:-------------44.7
+ Time Spent in the System:---24.7 
+
+Customer 8:  
+ Arrival Time:---------------23.1 
+ Waiting Time:---------------13.2 
+ Service Start Time:---------36.3
+ Service Time:---------------11.0
+ Departure Time:-------------47.3
+ Time Spent in the System:---24.2 
+
+Customer 9:  
+ Arrival Time:---------------26.4 
+ Waiting Time:---------------18.3 
+ Service Start Time:---------44.7
+ Service Time:---------------9.2
+ Departure Time:-------------53.9
+ Time Spent in the System:---27.5 
+
+Customer 10:  
+ Arrival Time:---------------30.1 
+ Waiting Time:---------------17.2 
+ Service Start Time:---------47.3
+ Service Time:---------------10.0
+ Departure Time:-------------57.3
+ Time Spent in the System:---27.2 
+
+Customer 11:  
+ Arrival Time:---------------34.1 
+ Waiting Time:---------------19.8 
+ Service Start Time:---------53.9
+ Service Time:---------------10.0
+ Departure Time:-------------63.9
+ Time Spent in the System:---29.8 
+
+Customer 12:  
+ Arrival Time:---------------35.9 
+ Waiting Time:---------------21.4 
+ Service Start Time:---------57.3
+ Service Time:---------------12.5
+ Departure Time:-------------69.8
+ Time Spent in the System:---33.9 
+
+Customer 13:  
+ Arrival Time:---------------39.4 
+ Waiting Time:---------------24.5 
+ Service Start Time:---------63.9
+ Service Time:---------------10.6
+ Departure Time:-------------74.5
+ Time Spent in the System:---35.1 
+
+Customer 14:  
+ Arrival Time:---------------47.9 
+ Waiting Time:---------------21.9 
+ Service Start Time:---------69.8
+ Service Time:---------------10.4
+ Departure Time:-------------80.2
+ Time Spent in the System:---32.3 
+
+Customer 15:  
+ Arrival Time:---------------49.1 
+ Waiting Time:---------------25.4 
+ Service Start Time:---------74.5
+ Service Time:---------------9.8
+ Departure Time:-------------84.3
+ Time Spent in the System:---35.2 
+
+Customer 16:  
+ Arrival Time:---------------55.5 
+ Waiting Time:---------------24.7 
+ Service Start Time:---------80.2
+ Service Time:---------------10.2
+ Departure Time:-------------90.4
+ Time Spent in the System:---34.9 
+
+Customer 17:  
+ Arrival Time:---------------58.9 
+ Waiting Time:---------------25.4 
+ Service Start Time:---------84.3
+ Service Time:---------------9.9
+ Departure Time:-------------94.2
+ Time Spent in the System:---35.3 
+
+Customer 18:  
+ Arrival Time:---------------64.4 
+ Waiting Time:---------------26.0 
+ Service Start Time:---------90.4
+ Service Time:---------------9.4
+ Departure Time:-------------99.8
+ Time Spent in the System:---35.4 
+
+Customer 19:  
+ Arrival Time:---------------70.5 
+ Waiting Time:---------------23.7 
+ Service Start Time:---------94.2
+ Service Time:---------------10.0
+ Departure Time:-------------104.2
+ Time Spent in the System:---33.7 
+
+Customer 20:  
+ Arrival Time:---------------77.2 
+ Waiting Time:---------------22.6 
+ Service Start Time:---------99.8
+ Service Time:---------------8.5
+ Departure Time:-------------108.3
+ Time Spent in the System:---31.1 
+
+Customer 21:  
+ Arrival Time:---------------82.8 
+ Waiting Time:---------------21.4 
+ Service Start Time:---------104.2
+ Service Time:---------------10.5
+ Departure Time:-------------114.7
+ Time Spent in the System:---31.9 
+
+Customer 22:  
+ Arrival Time:---------------85.8 
+ Waiting Time:---------------22.5 
+ Service Start Time:---------108.3
+ Service Time:---------------10.3
+ Departure Time:-------------118.6
+ Time Spent in the System:---32.8 
+
+Customer 23:  
+ Arrival Time:---------------93.1 
+ Waiting Time:---------------21.6 
+ Service Start Time:---------114.7
+ Service Time:---------------9.1
+ Departure Time:-------------123.8
+ Time Spent in the System:---30.7 
+
+Customer 24:  
+ Arrival Time:---------------96.7 
+ Waiting Time:---------------21.9 
+ Service Start Time:---------118.6
+ Service Time:---------------10.7
+ Departure Time:-------------129.3
+ Time Spent in the System:---32.6 
+
+Customer 25:  
+ Arrival Time:---------------101.3 
+ Waiting Time:---------------22.5 
+ Service Start Time:---------123.8
+ Service Time:---------------8.1
+ Departure Time:-------------131.9
+ Time Spent in the System:---30.6 
+
+Customer 26:  
+ Arrival Time:---------------104.4 
+ Waiting Time:---------------24.9 
+ Service Start Time:---------129.3
+ Service Time:---------------8.0
+ Departure Time:-------------137.3
+ Time Spent in the System:---32.9 
+
+Customer 27:  
+ Arrival Time:---------------111.1 
+ Waiting Time:---------------20.8 
+ Service Start Time:---------131.9
+ Service Time:---------------10.0
+ Departure Time:-------------141.9
+ Time Spent in the System:---30.8 
+
+Customer 28:  
+ Arrival Time:---------------115.1 
+ Waiting Time:---------------22.2 
+ Service Start Time:---------137.3
+ Service Time:---------------10.8
+ Departure Time:-------------148.1
+ Time Spent in the System:---33.0 
+
+Customer 29:  
+ Arrival Time:---------------121.3 
+ Waiting Time:---------------20.6 
+ Service Start Time:---------141.9
+ Service Time:---------------11.3
+ Departure Time:-------------153.2
+ Time Spent in the System:---31.9 
+
+Customer 30:  
+ Arrival Time:---------------124.3 
+ Waiting Time:---------------23.8 
+ Service Start Time:---------148.1
+ Service Time:---------------10.3
+ Departure Time:-------------158.4
+ Time Spent in the System:---34.1 
+
+Customer 31:  
+ Arrival Time:---------------129.9 
+ Waiting Time:---------------23.3 
+ Service Start Time:---------153.2
+ Service Time:---------------9.2
+ Departure Time:-------------162.4
+ Time Spent in the System:---32.5 
+
+Customer 32:  
+ Arrival Time:---------------132.5 
+ Waiting Time:---------------25.9 
+ Service Start Time:---------158.4
+ Service Time:---------------9.2
+ Departure Time:-------------167.6
+ Time Spent in the System:---35.1 
+
+Customer 33:  
+ Arrival Time:---------------138.7 
+ Waiting Time:---------------23.7 
+ Service Start Time:---------162.4
+ Service Time:---------------10.8
+ Departure Time:-------------173.2
+ Time Spent in the System:---34.5 
+
+Customer 34:  
+ Arrival Time:---------------145.0 
+ Waiting Time:---------------22.6 
+ Service Start Time:---------167.6
+ Service Time:---------------9.7
+ Departure Time:-------------177.3
+ Time Spent in the System:---32.3 
+
+Customer 35:  
+ Arrival Time:---------------148.9 
+ Waiting Time:---------------24.3 
+ Service Start Time:---------173.2
+ Service Time:---------------8.4
+ Departure Time:-------------181.6
+ Time Spent in the System:---32.7 
+
+Customer 36:  
+ Arrival Time:---------------156.5 
+ Waiting Time:---------------20.8 
+ Service Start Time:---------177.3
+ Service Time:---------------11.0
+ Departure Time:-------------188.3
+ Time Spent in the System:---31.8 
+
+Customer 37:  
+ Arrival Time:---------------160.9 
+ Waiting Time:---------------20.7 
+ Service Start Time:---------181.6
+ Service Time:---------------10.0
+ Departure Time:-------------191.6
+ Time Spent in the System:---30.7 
+
+Customer 38:  
+ Arrival Time:---------------164.6 
+ Waiting Time:---------------23.7 
+ Service Start Time:---------188.3
+ Service Time:---------------9.8
+ Departure Time:-------------198.1
+ Time Spent in the System:---33.5 
+
+Customer 39:  
+ Arrival Time:---------------168.1 
+ Waiting Time:---------------23.5 
+ Service Start Time:---------191.6
+ Service Time:---------------9.4
+ Departure Time:-------------201.0
+ Time Spent in the System:---32.9 
+
+Customer 40:  
+ Arrival Time:---------------173.4 
+ Waiting Time:---------------24.7 
+ Service Start Time:---------198.1
+ Service Time:---------------8.0
+ Departure Time:-------------206.1
+ Time Spent in the System:---32.7 
+
+Customer 41:  
+ Arrival Time:---------------177.5 
+ Waiting Time:---------------23.5 
+ Service Start Time:---------201.0
+ Service Time:---------------10.5
+ Departure Time:-------------211.5
+ Time Spent in the System:---34.0 
+
+Customer 42:  
+ Arrival Time:---------------183.5 
+ Waiting Time:---------------22.6 
+ Service Start Time:---------206.1
+ Service Time:---------------9.3
+ Departure Time:-------------215.4
+ Time Spent in the System:---31.9 
+
+Customer 43:  
+ Arrival Time:---------------188.5 
+ Waiting Time:---------------23.0 
+ Service Start Time:---------211.5
+ Service Time:---------------9.6
+ Departure Time:-------------221.1
+ Time Spent in the System:---32.6 
+
+Customer 44:  
+ Arrival Time:---------------193.9 
+ Waiting Time:---------------21.5 
+ Service Start Time:---------215.4
+ Service Time:---------------9.8
+ Departure Time:-------------225.2
+ Time Spent in the System:---31.3 
+
+Customer 45:  
+ Arrival Time:---------------200.1 
+ Waiting Time:---------------21.0 
+ Service Start Time:---------221.1
+ Service Time:---------------9.5
+ Departure Time:-------------230.6
+ Time Spent in the System:---30.5 
+
+Customer 46:  
+ Arrival Time:---------------202.6 
+ Waiting Time:---------------22.6 
+ Service Start Time:---------225.2
+ Service Time:---------------9.3
+ Departure Time:-------------234.5
+ Time Spent in the System:---31.9 
+
+Customer 47:  
+ Arrival Time:---------------207.9 
+ Waiting Time:---------------22.7 
+ Service Start Time:---------230.6
+ Service Time:---------------9.9
+ Departure Time:-------------240.5
+ Time Spent in the System:---32.6 
+
+Customer 48:  
+ Arrival Time:---------------211.8 
+ Waiting Time:---------------22.7 
+ Service Start Time:---------234.5
+ Service Time:---------------8.5
+ Departure Time:-------------243.0
+ Time Spent in the System:---31.2 
+
+Customer 49:  
+ Arrival Time:---------------216.6 
+ Waiting Time:---------------23.9 
+ Service Start Time:---------240.5
+ Service Time:---------------9.9
+ Departure Time:-------------250.4
+ Time Spent in the System:---33.8 
+
+Customer 50:  
+ Arrival Time:---------------223.2 
+ Waiting Time:---------------19.8 
+ Service Start Time:---------243.0
+ Service Time:---------------9.9
+ Departure Time:-------------252.9
+ Time Spent in the System:---29.7 
+
+Customer 51:  
+ Arrival Time:---------------226.6 
+ Waiting Time:---------------23.8 
+ Service Start Time:---------250.4
+ Service Time:---------------10.3
+ Departure Time:-------------260.7
+ Time Spent in the System:---34.1 
+
+Customer 52:  
+ Arrival Time:---------------230.6 
+ Waiting Time:---------------22.3 
+ Service Start Time:---------252.9
+ Service Time:---------------8.4
+ Departure Time:-------------261.3
+ Time Spent in the System:---30.7 
+
+Customer 53:  
+ Arrival Time:---------------235.8 
+ Waiting Time:---------------24.9 
+ Service Start Time:---------260.7
+ Service Time:---------------9.3
+ Departure Time:-------------270.0
+ Time Spent in the System:---34.2 
+
+Customer 54:  
+ Arrival Time:---------------242.2 
+ Waiting Time:---------------19.1 
+ Service Start Time:---------261.3
+ Service Time:---------------10.6
+ Departure Time:-------------271.9
+ Time Spent in the System:---29.7 
+
+Customer 55:  
+ Arrival Time:---------------245.8 
+ Waiting Time:---------------24.2 
+ Service Start Time:---------270.0
+ Service Time:---------------10.8
+ Departure Time:-------------280.8
+ Time Spent in the System:---35.0 
+
+Customer 56:  
+ Arrival Time:---------------253.5 
+ Waiting Time:---------------18.4 
+ Service Start Time:---------271.9
+ Service Time:---------------10.7
+ Departure Time:-------------282.6
+ Time Spent in the System:---29.1 
+
+Customer 57:  
+ Arrival Time:---------------256.1 
+ Waiting Time:---------------24.7 
+ Service Start Time:---------280.8
+ Service Time:---------------9.2
+ Departure Time:-------------290.0
+ Time Spent in the System:---33.9 
+
+Customer 58:  
+ Arrival Time:---------------263.1 
+ Waiting Time:---------------19.5 
+ Service Start Time:---------282.6
+ Service Time:---------------10.0
+ Departure Time:-------------292.6
+ Time Spent in the System:---29.5 
+
+Customer 59:  
+ Arrival Time:---------------267.5 
+ Waiting Time:---------------22.5 
+ Service Start Time:---------290.0
+ Service Time:---------------10.6
+ Departure Time:-------------300.6
+ Time Spent in the System:---33.1 
+
+Customer 60:  
+ Arrival Time:---------------273.9 
+ Waiting Time:---------------18.7 
+ Service Start Time:---------292.6
+ Service Time:---------------8.9
+ Departure Time:-------------301.5
+ Time Spent in the System:---27.6 
+
+Customer 61:  
+ Arrival Time:---------------277.6 
+ Waiting Time:---------------23.0 
+ Service Start Time:---------300.6
+ Service Time:---------------10.1
+ Departure Time:-------------310.7
+ Time Spent in the System:---33.1 
+
+Customer 62:  
+ Arrival Time:---------------282.7 
+ Waiting Time:---------------18.8 
+ Service Start Time:---------301.5
+ Service Time:---------------10.7
+ Departure Time:-------------312.2
+ Time Spent in the System:---29.5 
+
+Customer 63:  
+ Arrival Time:---------------286.4 
+ Waiting Time:---------------24.3 
+ Service Start Time:---------310.7
+ Service Time:---------------10.7
+ Departure Time:-------------321.4
+ Time Spent in the System:---35.0 
+
+Customer 64:  
+ Arrival Time:---------------290.5 
+ Waiting Time:---------------21.7 
+ Service Start Time:---------312.2
+ Service Time:---------------9.8
+ Departure Time:-------------322.0
+ Time Spent in the System:---31.5 
+
+Customer 65:  
+ Arrival Time:---------------294.3 
+ Waiting Time:---------------27.1 
+ Service Start Time:---------321.4
+ Service Time:---------------11.5
+ Departure Time:-------------332.9
+ Time Spent in the System:---38.6 
+
+Customer 66:  
+ Arrival Time:---------------301.4 
+ Waiting Time:---------------20.6 
+ Service Start Time:---------322.0
+ Service Time:---------------10.8
+ Departure Time:-------------332.8
+ Time Spent in the System:---31.4 
+
+Customer 67:  
+ Arrival Time:---------------302.5 
+ Waiting Time:---------------30.3 
+ Service Start Time:---------332.8
+ Service Time:---------------9.5
+ Departure Time:-------------342.3
+ Time Spent in the System:---39.8 
+
+Customer 68:  
+ Arrival Time:---------------313.7 
+ Waiting Time:---------------19.2 
+ Service Start Time:---------332.9
+ Service Time:---------------9.9
+ Departure Time:-------------342.8
+ Time Spent in the System:---29.1 
+
+Customer 69:  
+ Arrival Time:---------------316.1 
+ Waiting Time:---------------26.2 
+ Service Start Time:---------342.3
+ Service Time:---------------8.9
+ Departure Time:-------------351.2
+ Time Spent in the System:---35.1 
+
+Customer 70:  
+ Arrival Time:---------------324.3 
+ Waiting Time:---------------18.5 
+ Service Start Time:---------342.8
+ Service Time:---------------8.9
+ Departure Time:-------------351.7
+ Time Spent in the System:---27.4 
+
+Customer 71:  
+ Arrival Time:---------------327.1 
+ Waiting Time:---------------24.1 
+ Service Start Time:---------351.2
+ Service Time:---------------10.8
+ Departure Time:-------------362.0
+ Time Spent in the System:---34.9 
+
+Customer 72:  
+ Arrival Time:---------------333.2 
+ Waiting Time:---------------18.5 
+ Service Start Time:---------351.7
+ Service Time:---------------9.8
+ Departure Time:-------------361.5
+ Time Spent in the System:---28.3 
+
+Customer 73:  
+ Arrival Time:---------------335.6 
+ Waiting Time:---------------25.9 
+ Service Start Time:---------361.5
+ Service Time:---------------9.4
+ Departure Time:-------------370.9
+ Time Spent in the System:---35.3 
+
+Customer 74:  
+ Arrival Time:---------------343.0 
+ Waiting Time:---------------19.0 
+ Service Start Time:---------362.0
+ Service Time:---------------11.1
+ Departure Time:-------------373.1
+ Time Spent in the System:---30.1 
+
+Customer 75:  
+ Arrival Time:---------------346.9 
+ Waiting Time:---------------24.0 
+ Service Start Time:---------370.9
+ Service Time:---------------10.6
+ Departure Time:-------------381.5
+ Time Spent in the System:---34.6 
+
+Customer 76:  
+ Arrival Time:---------------353.1 
+ Waiting Time:---------------20.0 
+ Service Start Time:---------373.1
+ Service Time:---------------10.1
+ Departure Time:-------------383.2
+ Time Spent in the System:---30.1 
+
+Customer 77:  
+ Arrival Time:---------------355.9 
+ Waiting Time:---------------25.6 
+ Service Start Time:---------381.5
+ Service Time:---------------8.3
+ Departure Time:-------------389.8
+ Time Spent in the System:---33.9 
+
+Customer 78:  
+ Arrival Time:---------------363.3 
+ Waiting Time:---------------19.9 
+ Service Start Time:---------383.2
+ Service Time:---------------9.8
+ Departure Time:-------------393.0
+ Time Spent in the System:---29.7 
+
+Customer 79:  
+ Arrival Time:---------------365.4 
+ Waiting Time:---------------24.4 
+ Service Start Time:---------389.8
+ Service Time:---------------10.0
+ Departure Time:-------------399.8
+ Time Spent in the System:---34.4 
+
+Customer 80:  
+ Arrival Time:---------------373.6 
+ Waiting Time:---------------19.4 
+ Service Start Time:---------393.0
+ Service Time:---------------11.5
+ Departure Time:-------------404.5
+ Time Spent in the System:---30.9 
+
+Customer 81:  
+ Arrival Time:---------------376.7 
+ Waiting Time:---------------23.1 
+ Service Start Time:---------399.8
+ Service Time:---------------10.6
+ Departure Time:-------------410.4
+ Time Spent in the System:---33.7 
+
+Customer 82:  
+ Arrival Time:---------------381.8 
+ Waiting Time:---------------22.7 
+ Service Start Time:---------404.5
+ Service Time:---------------10.3
+ Departure Time:-------------414.8
+ Time Spent in the System:---33.0 
+
+Customer 83:  
+ Arrival Time:---------------387.1 
+ Waiting Time:---------------23.3 
+ Service Start Time:---------410.4
+ Service Time:---------------10.4
+ Departure Time:-------------420.8
+ Time Spent in the System:---33.7 
+
+Customer 84:  
+ Arrival Time:---------------392.2 
+ Waiting Time:---------------22.6 
+ Service Start Time:---------414.8
+ Service Time:---------------9.9
+ Departure Time:-------------424.7
+ Time Spent in the System:---32.5 
+
+Customer 85:  
+ Arrival Time:---------------395.0 
+ Waiting Time:---------------25.8 
+ Service Start Time:---------420.8
+ Service Time:---------------11.4
+ Departure Time:-------------432.2
+ Time Spent in the System:---37.2 
+
+Customer 86:  
+ Arrival Time:---------------401.8 
+ Waiting Time:---------------22.9 
+ Service Start Time:---------424.7
+ Service Time:---------------9.3
+ Departure Time:-------------434.0
+ Time Spent in the System:---32.2 
+
+Customer 87:  
+ Arrival Time:---------------407.8 
+ Waiting Time:---------------24.4 
+ Service Start Time:---------432.2
+ Service Time:---------------9.7
+ Departure Time:-------------441.9
+ Time Spent in the System:---34.1 
+
+Customer 88:  
+ Arrival Time:---------------410.6 
+ Waiting Time:---------------23.4 
+ Service Start Time:---------434.0
+ Service Time:---------------8.9
+ Departure Time:-------------442.9
+ Time Spent in the System:---32.3 
+
+Customer 89:  
+ Arrival Time:---------------416.2 
+ Waiting Time:---------------25.7 
+ Service Start Time:---------441.9
+ Service Time:---------------8.8
+ Departure Time:-------------450.7
+ Time Spent in the System:---34.5 
+
+Customer 90:  
+ Arrival Time:---------------422.9 
+ Waiting Time:---------------20.0 
+ Service Start Time:---------442.9
+ Service Time:---------------11.0
+ Departure Time:-------------453.9
+ Time Spent in the System:---31.0 
+
+Customer 91:  
+ Arrival Time:---------------427.4 
+ Waiting Time:---------------23.3 
+ Service Start Time:---------450.7
+ Service Time:---------------11.1
+ Departure Time:-------------461.8
+ Time Spent in the System:---34.4 
+
+Customer 92:  
+ Arrival Time:---------------433.3 
+ Waiting Time:---------------20.6 
+ Service Start Time:---------453.9
+ Service Time:---------------9.0
+ Departure Time:-------------462.9
+ Time Spent in the System:---29.6 
+
+Customer 93:  
+ Arrival Time:---------------435.2 
+ Waiting Time:---------------26.6 
+ Service Start Time:---------461.8
+ Service Time:---------------10.9
+ Departure Time:-------------472.7
+ Time Spent in the System:---37.5 
+
+Customer 94:  
+ Arrival Time:---------------442.9 
+ Waiting Time:---------------20.0 
+ Service Start Time:---------462.9
+ Service Time:---------------9.9
+ Departure Time:-------------472.8
+ Time Spent in the System:---29.9 
+
+Customer 95:  
+ Arrival Time:---------------445.1 
+ Waiting Time:---------------27.6 
+ Service Start Time:---------472.7
+ Service Time:---------------9.2
+ Departure Time:-------------481.9
+ Time Spent in the System:---36.8 
+
+Customer 96:  
+ Arrival Time:---------------451.9 
+ Waiting Time:---------------20.9 
+ Service Start Time:---------472.8
+ Service Time:---------------11.7
+ Departure Time:-------------484.5
+ Time Spent in the System:---32.6 
+
+Customer 97:  
+ Arrival Time:---------------454.7 
+ Waiting Time:---------------27.2 
+ Service Start Time:---------481.9
+ Service Time:---------------9.6
+ Departure Time:-------------491.5
+ Time Spent in the System:---36.8 
+
+Customer 98:  
+ Arrival Time:---------------464.0 
+ Waiting Time:---------------20.5 
+ Service Start Time:---------484.5
+ Service Time:---------------11.5
+ Departure Time:-------------496.0
+ Time Spent in the System:---32.0 
+
+Customer 99:  
+ Arrival Time:---------------466.1 
+ Waiting Time:---------------25.4 
+ Service Start Time:---------491.5
+ Service Time:---------------10.6
+ Departure Time:-------------502.1
+ Time Spent in the System:---36.0 
+
+Customer 100:  
+ Arrival Time:---------------475.9 
+ Waiting Time:---------------20.1 
+ Service Start Time:---------496.0
+ Service Time:---------------12.0
+ Departure Time:-------------508.0
+ Time Spent in the System:---32.1 
+
+Customer 101:  
+ Arrival Time:---------------478.9 
+ Waiting Time:---------------23.2 
+ Service Start Time:---------502.1
+ Service Time:---------------11.2
+ Departure Time:-------------513.3
+ Time Spent in the System:---34.4 
+
+Customer 102:  
+ Arrival Time:---------------481.9 
+ Waiting Time:---------------26.1 
+ Service Start Time:---------508.0
+ Service Time:---------------10.2
+ Departure Time:-------------518.2
+ Time Spent in the System:---36.3 
+
+Customer 103:  
+ Arrival Time:---------------485.9 
+ Waiting Time:---------------27.4 
+ Service Start Time:---------513.3
+ Service Time:---------------9.0
+ Departure Time:-------------522.3
+ Time Spent in the System:---36.4 
+
+Customer 104:  
+ Arrival Time:---------------495.7 
+ Waiting Time:---------------22.5 
+ Service Start Time:---------518.2
+ Service Time:---------------9.7
+ Departure Time:-------------527.9
+ Time Spent in the System:---32.2 
+
+Customer 105:  
+ Arrival Time:---------------500.6 
+ Waiting Time:---------------21.7 
+ Service Start Time:---------522.3
+ Service Time:---------------11.3
+ Departure Time:-------------533.6
+ Time Spent in the System:---33.0 
+
+Customer 106:  
+ Arrival Time:---------------504.6 
+ Waiting Time:---------------23.3 
+ Service Start Time:---------527.9
+ Service Time:---------------11.1
+ Departure Time:-------------539.0
+ Time Spent in the System:---34.4 
+
+Customer 107:  
+ Arrival Time:---------------510.1 
+ Waiting Time:---------------23.5 
+ Service Start Time:---------533.6
+ Service Time:---------------8.9
+ Departure Time:-------------542.5
+ Time Spent in the System:---32.4 
+
+Customer 108:  
+ Arrival Time:---------------516.8 
+ Waiting Time:---------------22.2 
+ Service Start Time:---------539.0
+ Service Time:---------------10.0
+ Departure Time:-------------549.0
+ Time Spent in the System:---32.2 
+
+Customer 109:  
+ Arrival Time:---------------521.8 
+ Waiting Time:---------------20.7 
+ Service Start Time:---------542.5
+ Service Time:---------------9.0
+ Departure Time:-------------551.5
+ Time Spent in the System:---29.7 
+
+Customer 110:  
+ Arrival Time:---------------524.7 
+ Waiting Time:---------------24.3 
+ Service Start Time:---------549.0
+ Service Time:---------------9.4
+ Departure Time:-------------558.4
+ Time Spent in the System:---33.7 
+
+Customer 111:  
+ Arrival Time:---------------529.1 
+ Waiting Time:---------------22.4 
+ Service Start Time:---------551.5
+ Service Time:---------------11.3
+ Departure Time:-------------562.8
+ Time Spent in the System:---33.7 
+
+Customer 112:  
+ Arrival Time:---------------537.1 
+ Waiting Time:---------------21.3 
+ Service Start Time:---------558.4
+ Service Time:---------------9.9
+ Departure Time:-------------568.3
+ Time Spent in the System:---31.2 
+
+Customer 113:  
+ Arrival Time:---------------542.1 
+ Waiting Time:---------------20.7 
+ Service Start Time:---------562.8
+ Service Time:---------------11.1
+ Departure Time:-------------573.9
+ Time Spent in the System:---31.8 
+
+Customer 114:  
+ Arrival Time:---------------544.0 
+ Waiting Time:---------------24.3 
+ Service Start Time:---------568.3
+ Service Time:---------------9.2
+ Departure Time:-------------577.5
+ Time Spent in the System:---33.5 
+
+Customer 115:  
+ Arrival Time:---------------550.2 
+ Waiting Time:---------------23.7 
+ Service Start Time:---------573.9
+ Service Time:---------------8.1
+ Departure Time:-------------582.0
+ Time Spent in the System:---31.8 
+
+Customer 116:  
+ Arrival Time:---------------553.6 
+ Waiting Time:---------------23.9 
+ Service Start Time:---------577.5
+ Service Time:---------------9.8
+ Departure Time:-------------587.3
+ Time Spent in the System:---33.7 
+
+Customer 117:  
+ Arrival Time:---------------559.2 
+ Waiting Time:---------------22.8 
+ Service Start Time:---------582.0
+ Service Time:---------------10.4
+ Departure Time:-------------592.4
+ Time Spent in the System:---33.2 
+
+Customer 118:  
+ Arrival Time:---------------563.0 
+ Waiting Time:---------------24.3 
+ Service Start Time:---------587.3
+ Service Time:---------------9.8
+ Departure Time:-------------597.1
+ Time Spent in the System:---34.1 
+
+Customer 119:  
+ Arrival Time:---------------571.1 
+ Waiting Time:---------------21.3 
+ Service Start Time:---------592.4
+ Service Time:---------------9.6
+ Departure Time:-------------602.0
+ Time Spent in the System:---30.9 
+
+Customer 120:  
+ Arrival Time:---------------574.4 
+ Waiting Time:---------------22.7 
+ Service Start Time:---------597.1
+ Service Time:---------------11.6
+ Departure Time:-------------608.7
+ Time Spent in the System:---34.3 
+
+Customer 121:  
+ Arrival Time:---------------577.7 
+ Waiting Time:---------------24.3 
+ Service Start Time:---------602.0
+ Service Time:---------------12.6
+ Departure Time:-------------614.6
+ Time Spent in the System:---36.9 
+
+Customer 122:  
+ Arrival Time:---------------584.3 
+ Waiting Time:---------------24.4 
+ Service Start Time:---------608.7
+ Service Time:---------------11.3
+ Departure Time:-------------620.0
+ Time Spent in the System:---35.7 
+
+
+Total Idles of Server 1
+  3.2
+Total Idles of Server 2
+  7.4
